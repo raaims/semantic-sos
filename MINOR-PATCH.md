@@ -1,4 +1,4 @@
-Hello, I am a minor patch. Refactor
+Hello, I am a minor patch. Refactor. Breaking refactor.
 
 I increment the minor patch version number.
 
